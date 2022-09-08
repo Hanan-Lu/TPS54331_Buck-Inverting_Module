@@ -6,7 +6,7 @@
 
 # 使用
 
-![实物图](https://raw.githubusercontent.com/Hanan-Lu/TPS54331_Buck-Inverting_Module/main/PCB/TPS54331%20PCBA.jpg)
+![实物图](./PCB/TPS54331%20PCBA.jpg)
 
 > 如图，上面模块配置为正压输出(安装R8，不安装R7)，即普通的Buck模式；
 > 
